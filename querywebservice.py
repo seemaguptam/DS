@@ -2,7 +2,6 @@
 """
 Created on Wed Feb 15 09:24:17 2017
 
-@author: admin
 """
 
 import urllib2
